@@ -25,3 +25,4 @@ N2
 3.Doğruysa ve 80'den büyük veya eşit Değilse C yaz.
 4.Doğruysa ve 90'dan büyük veya eşit Değilse B yaz.
 5.Doğruysa A yaz.
+ 
